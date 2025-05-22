@@ -8,7 +8,8 @@
  * @author Luis F. Vidal
  * @version 1.0.0
  * @package Practica
- * @copyright 2025 Tu Nombre
+ * @copyright 2025 Luis F. Vidal
+ * 
  */
  
  /**
